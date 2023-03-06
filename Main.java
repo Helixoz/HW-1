@@ -10,9 +10,9 @@ public class Main {
        long d = 20;
        double s = 13d;
 
-        System.out.println("Result + : " + (a + b));
-        System.out.println("Result - : " + (c - f));
-        System.out.println("Result * : " + (b * s));
-        System.out.println("Result / : " + (s / d));
+       System.out.println("Result + : " + (a + b));
+       System.out.println("Result - : " + (c - f));
+       System.out.println("Result * : " + (b * s));
+       System.out.println("Result / : " + (s / d));
     }
 }
